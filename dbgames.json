@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "PC Gamer",
+      "descricao": "Processador: Intel I5 4570, Placa mãe: Maximus X Hero, Armanezamento: Hdd 1tb, Memória: 16GB, Placa de Vídeo: GTX",
+      "foto": "banner1.jpg",
+      "preço": 1300
+    },
+    {
+      "id": 2,
+      "produto": "Mouse",
+      "descricao": "Mouse Mx Master Logitech",
+      "foto": "banner2.jpg",
+      "preço": 50
+    },
+    {
+      "id": 3,
+      "produto": "Celular",
+      "descricao": "Motorola G7 XT 1952, Memória: 32GB, Preto",
+      "foto": "banner3.jpg",
+      "preço": 510
+    }
+  ]
+}
